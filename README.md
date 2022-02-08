@@ -1,3 +1,3 @@
 # Project_1
 
-Expandable Cards
+Expandable Cards using HTML, CSS, and JS
